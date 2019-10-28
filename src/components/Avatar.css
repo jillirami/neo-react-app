@@ -1,0 +1,9 @@
+.image {
+  border-style: solid;
+  border-radius: 50%;
+  border-width: medium;
+  margin: 15px;
+  display: inline;
+  max-width: 200px;
+  max-height: 200px;
+}

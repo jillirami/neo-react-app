@@ -1,0 +1,35 @@
+.product {
+  padding: 5px;
+}
+
+#pricing {
+  list-style-type: none;
+}
+
+img {
+  border-style: solid;
+  border-width: thin;
+}
+
+.productImage {
+  max-width: 150x;
+  height: auto;
+}
+
+li {
+  display: inline-block;
+}
+
+.redPrice {
+  color: red;
+}
+
+.black {
+  color: black;
+}
+
+.grey {
+  padding-left: 5px;
+  color: grey;
+  text-decoration: line-through;
+}
